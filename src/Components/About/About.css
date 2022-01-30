@@ -1,0 +1,22 @@
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+/* .half{
+    text-align: left;
+} */
+.half img{
+    width: 60%;
+}
+.link_button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: papayawhip;
+    font-weight: 700
+}
+

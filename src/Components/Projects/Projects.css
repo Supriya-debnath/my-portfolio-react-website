@@ -1,0 +1,116 @@
+/* .service-container{
+    display: grid;
+}
+.container__style{
+    min-height: 83.5vh;
+}
+.service-title{
+    margin: 30px;
+    color: slategrey;
+} */
+
+.product-header{
+    padding-top: 50px;
+}
+
+.service-bg {
+    background-color: rgba(139, 135, 135, 0.137);
+    height: fit-content;
+  }
+  
+  .Hotels {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+  
+  .hotel-img {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .hotel-information {
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+    background: rgb(248, 248, 250);
+    border-radius: 5px;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.07),
+      0 2px 4px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.07),
+      0 2px 4px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.07);
+  }
+  .logo {
+    width: 40%;
+  }
+  .name-ret {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .link-btn a{
+      text-decoration: none;
+      text-anchor: start;
+  }
+
+
+  .hotel-details {
+    padding: 10px;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .cnf-button {
+    display: flex;
+    justify-content: space-between;
+  }
+  .booking-button {
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+    text-decoration: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: 3px;
+  }
+  .booking-button a{
+    color: white;
+  }
+  .span-tag {
+    background-color: #5624d0;
+    color: white;
+    padding: 3px;
+    border-radius: 3px;
+  }
+  .btn1 {
+    background-color: #2d907f;
+  }
+  .btn2{
+    background-color: rgb(146, 62, 132);
+  }
+ 
+  
+  
+  @media only screen and (max-width: 48em) {
+    .Hotels {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-row-gap: 10px;
+    }
+    .hotel-information {
+      display: flex;
+      flex-direction: column;
+      margin: 10px 0;
+    }
+    .hotel-details {
+      width: 100%;
+    }
+    .logo {
+      width: 100%;
+    }
+  }
+
+

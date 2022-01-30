@@ -1,0 +1,48 @@
+.title{
+    margin-bottom: 30px;
+}
+.hire{
+    margin-bottom: 30px;
+}
+
+.experience {
+    padding: 60px 0;
+    /* background-color: #0f0e17; */
+}
+.experience i {
+    font-size: 45px;
+    margin: 10px 0;
+    color: #ff8906;
+}
+.experience h4 {
+    text-align: center;
+    margin: 15px 0;
+    color: #ff8906;
+}
+.experience h1 {
+    text-align: center;
+    margin: 40px 0;
+    color: #fffffe;
+}
+.experience-card {
+    text-align: center;
+    background-color: rgb(33, 37, 43);
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    padding: 30px;
+}
+.experience-card:hover {
+    border: 1px solid #ff8906;
+}
+.experience-card h2 {
+    color: #fffffe;
+    margin: 10px 0;
+}
+.experience-card p {
+    color: #fffffe;
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "name": "CAR SALES",
+        "one": "Users dynamically book cars.",
+        "two": "Users can order and give reviews.",
+        "three": " Firebase Login System.Users can manage orders with CRUD operation.",
+        "four": "React, React-Bootstrap, firebase, Node, Express, Mongodb, Heroku(API), firebase(site).",
+        "description":
+        "A  car-rental sales website.Responsive and dynamic website. Firebase Login System.Tech Stack Client: React, React-Bootstrap, firebase.Server: Node, Express, Mongodb.Hosting: Heroku(API), firebase(site).About - Car-rental Easy to use Fully Authentication supported Google log in Mobile Responsive Single Page application User order system User My order system All manage system package/services manage system",
+        "img": "https://i.ibb.co/YkJ8D2p/car.png",
+        "link": "https://car-sales-5a40f.web.app/",
+        "client": "https://github.com/Supriya-debnath/car-sales-client-website",
+        "server": "https://github.com/Supriya-debnath/car-sales-server-side"
+        
+    },
+    {
+        "name": "TOUR BOOKING",
+        "one": "Booking Website including a dashboard to manage orders.",
+        "two": "A travel Agency, where user can book the services, manage both his and all booking.Create a new package.",
+        "three": "Responsive website and admin can remove user.",
+        "four": "React, React-Bootstrap, firebase.Server: Node, Express, Mongodb.Hosting: Heroku(API), firebase.",
+        "description":"This is a Tourism related website. Tour-booking | A tourism guide website A Travel Agency SPA (single page application), where user can can book the services, manage both his and all bookings, also can create a new package of his own.Tech Stack Client: React, React-Bootstrap, firebase.Server: Node, Express, Mongodb.Hosting: Heroku(API), firebase(site).About - Tour-booking Easy to use Fully Authentication supported Google log in Mobile Responsive Single Page application User booking system User My booking system All booking manage system package/services manage system.",
+        "img": "https://i.ibb.co/NxLBBBM/tour-booking.png",
+        "link": " https://tour-booking-c651a.web.app/",
+        "client": "https://github.com/Supriya-debnath/tour-booking-client",
+        "server": "https://github.com/Supriya-debnath/tour-booking-server"
+    },
+    {
+        "name": "FASHION STORE",
+        "one": "This is Fashion Store website.",
+        "two": "Fashion store is big store and online shop.",
+        "three": "Design Makeing Site",
+        "four": "React, bootstrap, CSS, netlify",
+        "description":"This is Fashion Store website.Fashion store is big store.Technology used react, bootstrap, CSS, netlify",
+        "img": "https://i.ibb.co/7Xs1p1w/fasion.png",
+        "link":"https://adoring-haibt-008c07.netlify.app/",
+        "client": "https://github.com/Supriya-debnath/fashion-online-store"
+    },
+    {
+        "name": "HealthCare",
+        "one": "A responsive, fully-functional niche website.",
+        "two": "User can see his name and profile picture in the header after signin with Google.",
+        "three": " Navigate different pages is possible through navbar without reloading.",
+        "four": "react, React Router, Context API, React Bootstrap,html, CSS, firebase",
+
+        "description":"This is healthCare specialized website. About & Features Specialized Healthcare single page web application where Neurology, Cardiology, Urology, Valve Diseases, Body Surgery services are provided.Login system with firebase, private routes.any user can get any service by login with facebook, google. If the user do not have any account he/she can create account from login page.Technology used react, React Router, Context API, React Bootstrap,html, CSS, firebase",
+        "img": "https://i.ibb.co/wLdkjTr/health.png",
+        "link":"https://healthcare-specialized.web.app/",
+        "client": "https://github.com/Supriya-debnath/healthCare-specialized"
+    },
+    {
+        "name": "Programming Hero",
+        "one": "Users can select any team member.",
+        "two": "Users can add their selected any team member on cart.",
+        "three": "Users can see their selected team member names on cart.",
+        "four": "React, react-bootstrap,html, CSS, netlify",
+
+        "description":"This is make a team website. It is programming hero team website.Technology used React, react-bootstrap,html, CSS, netlify",
+        "img": "https://i.ibb.co/S3VSMnC/programming.png",
+        "link":"https://loving-meitner-d6f005.netlify.app/",
+        "client": "https://github.com/Supriya-debnath/programming-hero-team"
+    },
+    {
+        "name": "Panda-Commerce",
+        "one": "Panda commerce and responsive website",
+        "two": "Its simple website.",
+        "three": "Bootstrap with card create.",
+        "four": "html, CSS, bootstrap, netlify",
+
+        "description":"This is panda commerce website.Technology used html, CSS, bootstrap, netlify",
+        "img": "https://i.ibb.co/zSP0MMj/panda.png",
+        "link":"https://supriya-debnath.github.io/panda-commerce-bootstrap/",
+        "client": "https://github.com/Supriya-debnath/panda-commerce-bootstrap"
+    }
+]

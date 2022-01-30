@@ -1,0 +1,14 @@
+.contact-container{
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.contact-us{
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+}
+.contact{
+    background: url('https://wallpaperaccess.com/full/187161.jpg');
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
