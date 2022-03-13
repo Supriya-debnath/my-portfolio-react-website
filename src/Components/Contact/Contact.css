@@ -35,7 +35,7 @@
     padding: 7px 0;
     border-bottom: 1px solid gray;
 }
-.effect-1 ~ .Focus-border{
+/* .effect-1 ~ .Focus-border{
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -43,7 +43,7 @@
     height: 2px;
     background-color: brown;
     transition: 0.4s;
-}
+} */
 .effect-1:focus ~ .Focus-border{
     width: 100%;
     transition: 0.4s;
