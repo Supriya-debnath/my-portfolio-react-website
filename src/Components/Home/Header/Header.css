@@ -1,8 +1,10 @@
 .link_button{
-   border-radius: 30px;
+   border-radius: 10px;
    text-align: center;
-   -webkit-border-radius: 30px;
-   -moz-border-radius: 30px;
-   -ms-border-radius: 30px;
-   -o-border-radius: 30px;
+   height: 40px;
+   width: 140px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
 }
